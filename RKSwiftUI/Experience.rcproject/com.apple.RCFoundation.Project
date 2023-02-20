@@ -71,11 +71,13 @@
                             {
                               "configurationBox" : {
                                 "configuration" : {
-
+                                  "target" : [
+                                    "3788A5B5-0388-488A-8304-7B90FEBA6FAC"
+                                  ]
                                 },
-                                "name" : "start"
+                                "name" : "tapTarget"
                               },
-                              "identifier" : "F30B461A-C420-48CA-9169-A4416887DFFC",
+                              "identifier" : "8287922E-F0A6-4AC2-8365-8CBEA288430C",
                               "isEnabled" : true
                             }
                           ],
